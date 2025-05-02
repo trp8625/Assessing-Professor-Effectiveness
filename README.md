@@ -1,5 +1,5 @@
 # Assessing-Professor-Effectiveness
-Principles of Data Science II (Spring 2025) - Capstone Project
+Principles of Data Science II - Capstone Project
 
 In this project, I explored the relationships between professor characteristics and their ratings on RateMyProfessors.com. Using two datasets — one containing quantitative measures (ratings, difficulty, number of ratings, gender, etc.) and the other containing qualitative information (university, state, major) — I merged, cleaned, and analyzed the data to uncover patterns in how professors are rated, and what factors contribute to their "hotness" (pepper) designation.
 
